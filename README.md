@@ -10,4 +10,5 @@
 | 页面滚动 | aos.js |   https://github.com/michalsnik/aos    | http://www.htmleaf.com/jQuery/Layout-Interface/201606093578.html|
 |web弹层|layer|https://github.com/sentsin/layer/|http://layer.layui.com/|
 |触摸滑动|Swiper|https://github.com/nolimits4web/Swiper|http://www.swiper.com.cn/|
-|触摸滑动|mmenu|https://github.com/FrDH/jQuery.mmenu|http://mmenu.frebsite.nl/|
+|移动导航|mmenu|https://github.com/FrDH/jQuery.mmenu|http://mmenu.frebsite.nl/|
+
