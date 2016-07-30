@@ -1,4 +1,4 @@
-# -jquery-
+# -jQuery-
 前端常用jquery插件
 
 | 类别        | 名称   |  网址  | 备注|
