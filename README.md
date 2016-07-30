@@ -12,4 +12,5 @@
 |触摸滑动|Swiper|https://github.com/nolimits4web/Swiper|http://www.swiper.com.cn/|
 |移动导航|mmenu|https://github.com/FrDH/jQuery.mmenu|http://mmenu.frebsite.nl/|
 |幻灯片|SuperSlide|http://www.superslide2.com/downLoad.html|http://www.superslide2.com/index.html|
+|分布引导|Intro.js|https://github.com/usablica/intro.js|http://devework.com/intro-js.html|
 
