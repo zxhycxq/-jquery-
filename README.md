@@ -10,6 +10,7 @@
 | 页面滚动 | scrollReveal.js |  https://github.com/jlmakes/scrollreveal.js | 
 | 页面滚动 | aos.js |   https://github.com/michalsnik/aos    | http://www.htmleaf.com/jQuery/Layout-Interface/201606093578.html|
 |web弹层|layer|https://github.com/sentsin/layer/|http://layer.layui.com/|
+|web弹层|artDialog|http://aui.github.io/artDialog/|http://aui.github.io/artDialog/|
 |触摸滑动|Swiper|https://github.com/nolimits4web/Swiper|http://www.swiper.com.cn/|
 |移动导航|mmenu|https://github.com/FrDH/jQuery.mmenu|http://mmenu.frebsite.nl/|
 |幻灯片|SuperSlide|http://www.superslide2.com/downLoad.html|http://www.superslide2.com/index.html|
