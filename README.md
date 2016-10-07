@@ -19,4 +19,5 @@
 |幻灯片|SuperSlide|http://www.superslide2.com/downLoad.html|http://www.superslide2.com/index.html|
 |分布引导|Intro.js|https://github.com/usablica/intro.js|http://devework.com/intro-js.html|
 |上传文件|uploadify| |http://www.uploadify.com/|
+|svg|walkway|https://github.com/ConnorAtherton/walkway |https://connoratherton.com/walkway|
 
