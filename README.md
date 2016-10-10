@@ -20,4 +20,5 @@
 |分布引导|Intro.js|https://github.com/usablica/intro.js|http://devework.com/intro-js.html|
 |上传文件|uploadify| |http://www.uploadify.com/|
 |svg|walkway|https://github.com/ConnorAtherton/walkway |https://connoratherton.com/walkway|
+|日期选择|datetimepicker|https://github.com/ConnorAtherton/walkway |http://xdsoft.net/jqplugins/datetimepicker/ http://www.jq22.com/jquery-info332 |
 
