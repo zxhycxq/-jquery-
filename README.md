@@ -22,3 +22,4 @@
 |svg|walkway|https://github.com/ConnorAtherton/walkway |https://connoratherton.com/walkway|
 |日期选择|datetimepicker|https://github.com/ConnorAtherton/walkway |http://xdsoft.net/jqplugins/datetimepicker/ http://www.jq22.com/jquery-info332 |
 
+|表格插件|datatables|https://github.com/ssy341/datatables-cn/ |http://datatables.club/|
